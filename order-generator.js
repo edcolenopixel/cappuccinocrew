@@ -41,7 +41,7 @@ const Menu = {
 	   	price: 100,
 	   	noDiscount: false,
 	   	lastItem: false,
-	  	items: ["Char. Board"],
+	  	items: ["Char Board"],
 	},
 	// Combo Items:
 	"Combos": {
