@@ -88,7 +88,7 @@ const Menu = {
 	// misc Items:
 	"Misc": {
 		header: true,	
-		
+	},
 	"Cigarettes": {
 	   	price: 140,
 	   	noDiscount: false,
