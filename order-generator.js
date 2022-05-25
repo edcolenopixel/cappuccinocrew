@@ -46,12 +46,12 @@ const Menu = {
 	// Combo Items:
 	"Combos": {
 		header: true,	
-	
+	}
 	
 };
 const INDIVIDUAL_ITEMS = [
 	"Fruit Cube", "Cannoli", "Pain au Chocolate", "Meatball Sub", "Char Board", "Tropical Punch", "Frappuccino", "Grape Juicebox", "Hot Chocolate", "Cappuccino", "Espresso", "Cigarettes"
-"Noskit", "Lockpick", "Adv Lockpick", "Adv Repair Kit"
+,"Noskit", "Lockpick", "Adv Lockpick", "Adv Repair Kit"
 ];
 
 const buttons = {
