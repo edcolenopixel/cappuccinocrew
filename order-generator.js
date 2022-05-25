@@ -55,50 +55,50 @@ const buttons = {
 };
 
 const Signs = {
-	"Menu Sign": {
-		copypasta:  '~w~~h~🍔🍟 MENU/COMBOS🍟 🍔~w~~h~'
+	"Welcome Sign": {
+		copypasta:  '<font size="80"><b>~g~ ~h~ Welcome to South Side Gas Station'
 	},
-	"Remove Mask/Helmet (Door)": {
-		copypasta:  '~y~ ~h~❗ATTENTION❗~n~ ~r~ PLEASE REMOVE ALL MASKS/HELMETS/WEAPONS BEFORE ENTERING THE BUILDING~h~'
+	"Honk Service": {
+		copypasta:  '<font size="45"><b>~g~ ~h~ Honk for Service'
 	},
-	"Refuse Service": {
-		copypasta:  '~y~~h~❗ATTENTION❗~n~~r~~h~ WE HAVE THE RIGHT TO REFUSE SERVICE TO ANYONE'
+	"Food&Combos": {
+		copypasta:  '<font size="35"><b>~b~ 🥙 ☕ Ask About Our Food & Combos!🥙☕'
 	},
-	"Don't Do Murder": {
-		copypasta:  '<font size=`45`><b> DON’T DO MURDER😈🔪 EAT A BURGER 🍔🍟'
+	"Tips Appreciated": {
+		copypasta:  '<font size="70"><b>~g~ 💸Tips Appreciated💸 '
 	},
-	"Private Property": {
-		copypasta:  '<font size=`35`> ~r~<u>PRIVATE PROPERTY</u>~n~</font> ~o~DO NOT TOW VEHICLES HERE!'
+	"No parking": {
+		copypasta:  '<font size="70"><b>~g~ ~h~ 🚫NO PARKING🚫'
 	},
-	"Drive-Thru Order Here": {
-		copypasta:  '<font size=`35`>~w~~h~🍔🍟 ORDER HERE🍟 🍔~w~~h~'
+	"Food Combos": {
+		copypasta:  '<font size="25">~b~ ~g~Food~n~~b~ 🥝 Fruit Cube~w~ |~o~ 100 ~n~  ~b~ 🍮  Cannoli~w~ |~o~ 100~n~ ~b~ Pain au Chocolate ~w~ |~o~ 100 ~n~  ~b~ 🥙 Meatball Sub ~w~ |~o~ 100 ~n~ ~b~ Char. Board ~w~ | ~o~ 100'
 	},
-	"Drive-Thru Entrance": {
-		copypasta:  '<font size=`45`><b>~g~~h~DRIVE THRU ENTRANCE'
+	"Drinks": {
+		copypasta:  '<font size="25"> ~b~ ~g~Drinks ~n~ ~b~🍹 Tropical Punch ~w~ |~o~ 100 ~n~  ~b~ ☕ Frappuccino ~w~ |~o~ 100~n~ ~b~🧃 Grape Juicebox~w~ | ~o~ 100 ~n~  ~b~ 🍫 Hot Chocolate ~w~ |~o~ 100'
 	},
-	"Drive-Thru Entrance": {
-		copypasta:  '<font size=`45`><b>~g~~h~DRIVE THRU NOW OPEN'
+	"Coffees": {
+		copypasta:  '<font size="25"> ~b~ ~g~Coffee~n~ ~b~☕ Cappuccino ~w~ |~o~ 150 ~n~  ~b~ ☕Espresso ~w~ |~o~ 150'
 	},
-	"Radio": {
-		copypasta:  '~r~BS Radio: ~g~'
+	"Misc": {
+		copypasta:  '<font size="25"> ~b~ ~g~Misc.~n~ ~b~🚬 Cigarettes ~w~ |~o~ 140 ~n~ ~b~  🩹NOSkit (MedKits) ~w~ |~o~ 140 ~n~  ~b~ Regular Lockpick ~w~ |~o~ 350 ~n~  ~b~ Adv Lockpick ~w~ |~o~ 2500 ~n~  ~b~ 🧰 Adv Repair Kits ~w~ |~o~ 2200'
 	},
-	"Employees Only": {
-		copypasta:  '~r~~h~EMPLOYEES ONLY'
+	"W cop combo": {
+		copypasta:  '<font size="25">~r~ ~g~👮W COP COMBO ~n~ ~b~3 Any Food, 2 Grape Juicebox, 2 Espresso~w~ |~o~ $620'
 	},
-	"Email Sign-in": {
-		copypasta:  '~r~~h~Clock into the email'
+	"L cop combo": {
+		copypasta:  '<font size="25">~r~ ~g~👮L COP COMBO ~n~ ~b~3 Any Food, 2 Hot Choc, 2 Capp., 1 Adv. Repair Kit~w~ |~o~ $2620'
 	},
-	"No Mask/Helmet (Counter)": {
-		copypasta:  '~h~~r~👺NO MASKS OR HELMETS👺'
+	"Cremepie combo": {
+		copypasta:  '<font size="25">~r~ ~g~🍦CRÈMEPIE COMBO ~n~ ~b~3 Cannoli, 2 Hot Choc, 2 Capp., 2 MedKits~w~ |~o~ $820'
 	},
-	"Use Other Door": {
-		copypasta:  '~h~ ~g~ NOT AN ENTRANCE/EXIT ~n~ ~r~ PLEASE USE OTHER DOOR'
+	"Basic bish": {
+		copypasta:  '<font size="25">~r~ ~g~🥱BASIC BISH~n~ ~b~1 Cannoli, 1 Frapp ~w~ |~o~ $120'
 	},
-	"Main Entrance": {
-		copypasta:  '~h~ ~g~ ENTRANCE/EXIT ~n~ ~r~ PLEASE USE THIS DOOR'
+	"Boost of the day": {
+		copypasta:  '<font size="25">~r~ ~g~ 🏎 BOOST OF THE DAY ~n~ ~b~ 1 Meatball Sub, 1 Trop. Punch, 5 Coffees ~w~ |~o~ $950'
 	},
-	"No Pants Friday": {
-		copypasta:  '~b~ ~h~❗NO PANTS FRIDAY❗'
+	"Twatter Ad": {
+		copypasta:  '☘️ South Side Gas ☘️ Come by and get ⛽ Premium gas ⛽☕🩹🥙 Food, Coffee, Cigs, First aids and ADV Repair Kits now available!☕🩹🥙 https://i.imgur.com/JHP67lY.mp4'
 	}
 };
 
