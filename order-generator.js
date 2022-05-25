@@ -317,7 +317,7 @@ function editQuantity(item) {
 
 function getEmptyOrder() {
 	let buffer = [];
-	buffer.push('<img src="images/bs-logo.svg" width="45%">');
+	buffer.push('<img src="images/ss.gif" width="45%">');
 	buffer.push("");
 	buffer.push("<strong>ITEMS ORDERED:</strong>");
 	buffer.push("");
@@ -344,7 +344,7 @@ function getDiscount() {
 
 function report() {
 	let buffer = [];
-	buffer.push('<img src="images/bs-logo.svg" width="45%">');
+	buffer.push('<img src="images/ss.gif" width="45%">');
 	buffer.push("");
 	let curDarkmode = document.getElementById('darkmode').checked;
 	if (curDarkmode) {
