@@ -120,7 +120,7 @@ const Menu = {
 	  	items: ["Adv Lockpick"],
 	},
 	"Adv Repairkit": {
-	   	price: 2500,
+	   	price: 2200,
 	   	noDiscount: false,
 	   	lastItem: false,
 	  	items: ["Adv Repairkit"],
