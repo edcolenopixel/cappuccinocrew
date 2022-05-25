@@ -159,7 +159,6 @@ const Menu = {
 	  	items: ["Food", "Food", "Food", "Hot Chocolate", "Hot Chocolate", "Cappuccino", "Cappuccino", "Adv Repairkit"],
 	}
 }
-}
 const INDIVIDUAL_ITEMS = [
 	"Fruit Cube", "Cannoli", "Pain au Chocolate", "Meatball Sub", "Char Board", "Tropical Punch", "Frappuccino", "Grape Juicebox", "Hot Chocolate", "Cappuccino", "Espresso", "Cigarettes"
 ,"Noskit", "Lockpick", "Adv Lockpick", "Adv Repairkit", "Food",
