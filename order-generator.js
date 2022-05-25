@@ -125,10 +125,44 @@ const Menu = {
 	   	lastItem: false,
 	  	items: ["Adv Repairkit"],
 	},
+	// combos:
+	"Combos:": {
+		header: true,
+	},
+	"Basic Bish": {
+	   	price: 120,
+	   	noDiscount: false,
+	   	lastItem: false,
+	  	items: ["Cannoli", "Frappuccino"],
+	},
+	"W Cop": {
+	   	price: 620,
+	   	noDiscount: false,
+	   	lastItem: false,
+	  	items: ["Food", "Food", "Food"],
+	},
+	"Boost of the Day": {
+	   	price: 950,
+	   	noDiscount: false,
+	   	lastItem: false,
+	  	items: ["Meatball Sub", "Tropical Punch", "Espresso", "Espresso", "Espresso", "Espresso", "Espresso"],
+	},
+	"Cremepie": {
+	   	price: 820,
+	   	noDiscount: false,
+	   	lastItem: false,
+	  	items: ["Cannoli", "Cannoli", "Cannoli", "Hot Chocolate", "Hot Chocolate", "Cappuccino", "Cappuccino", "Noskit", "Noskit"],
+	},
+	"L Cop": {
+	   	price: 2620,
+	   	noDiscount: false,
+	   	lastItem: false,
+	  	items: ["Food", "Food", "Food", "Hot Chocolate", "Hot Chocolate", "Cappuccino", "Cappuccino", "Adv Repairkit"],
+	},
 };
 const INDIVIDUAL_ITEMS = [
 	"Fruit Cube", "Cannoli", "Pain au Chocolate", "Meatball Sub", "Char Board", "Tropical Punch", "Frappuccino", "Grape Juicebox", "Hot Chocolate", "Cappuccino", "Espresso", "Cigarettes"
-,"Noskit", "Lockpick", "Adv Lockpick", "Adv Repairkit"
+,"Noskit", "Lockpick", "Adv Lockpick", "Adv Repairkit", "Food",
 ];
 
 const buttons = {
