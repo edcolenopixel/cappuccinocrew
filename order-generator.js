@@ -190,7 +190,7 @@ const Signs = {
 		copypasta:  '<font size=`25`>~r~ ~g~🥱BASIC BISH~n~ ~b~1 Cannoli, 1 Frapp ~w~ |~o~ $120'
 	},
 	"Boost of the day": {
-		copypasta:  '<font size=`25`>~r~ ~g~ 🏎 BOOST OF THE DAY ~n~ ~b~ 1 Meatball Sub, 1 Trop. Punch, 5 Coffees ~w~ |~o~ $950'
+		copypasta:  '<font size=`25`>~g~🏎BOOST OF THE DAY~n~~b~1 Meatball Sub, 1 Trop. Punch, 5 Coffees ~w~| ~o~$950'
 	},
 	"Twatter Ad": {
 		copypasta:  '☘️ South Side Gas ☘️ Come by and get ⛽ Premium gas ⛽☕🩹🥙 Food, Coffee, Cigs, First aids and ADV Repair Kits now available!☕🩹🥙 https://i.imgur.com/JHP67lY.mp4'
