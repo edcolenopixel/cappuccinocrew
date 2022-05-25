@@ -114,7 +114,7 @@ const Menu = {
 	  	items: ["Lockpick"],
 	},
 	"Adv Lockpick": {
-	   	price: 2500,
+	   	price: 2200,
 	   	noDiscount: false,
 	   	lastItem: false,
 	  	items: ["Adv Lockpick"],
