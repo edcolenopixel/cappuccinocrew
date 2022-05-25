@@ -125,35 +125,35 @@ const Menu = {
 	},
 	"Basic Bish": {
 	   	price: 120,
-		emoji: "🥱"
+		emoji: "🥱",
 	   	noDiscount: false,
 	   	lastItem: false,
 	  	items: ["Cannoli", "Frappuccino"],
 	},
 	"W Cop": {
 	   	price: 620,
-		emoji: "👮"
+		emoji: "👮",
 	   	noDiscount: false,
 	   	lastItem: false,
 	  	items: ["Food", "Food", "Food", "Grape Juicebox", "Grape Juicebox", "Espresso", "Espresso"],
 	},
 	"Boost of the Day": {
 	   	price: 950,
-		emoji: " 🏎"	
+		emoji: "🏎",
 	   	noDiscount: false,
 	   	lastItem: false,
 	  	items: ["Meatball Sub", "Tropical Punch", "Espresso", "Espresso", "Espresso", "Espresso", "Espresso"],
 	},
 	"Cremepie": {
 	   	price: 820,
-		emoji: "🍦"
+		emoji: "🍦",
 	   	noDiscount: false,
 	   	lastItem: false,
 	  	items: ["Cannoli", "Cannoli", "Cannoli", "Hot Chocolate", "Hot Chocolate", "Cappuccino", "Cappuccino", "Noskit", "Noskit"],
 	},
 	"L Cop": {
 	   	price: 2620,
-		emoji: "👮"
+		emoji: "👮",
 	   	noDiscount: false,
 	   	lastItem: false,
 	  	items: ["Food", "Food", "Food", "Hot Chocolate", "Hot Chocolate", "Cappuccino", "Cappuccino", "Adv Repairkit"],
