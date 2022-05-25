@@ -12,6 +12,7 @@ const Menu = {
 	// Items:
 	"Food:": {
 		header: true,
+	},
 	"Fruit Cube": {
 	   	price: 100,
 	   	noDiscount: false,
