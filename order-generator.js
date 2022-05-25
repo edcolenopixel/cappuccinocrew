@@ -9,8 +9,6 @@ const Settings = {
 }
 
 const Menu = {
-	
-	},
 	// Items:
 	"Food:": {
 		header: true,
@@ -48,14 +46,7 @@ const Menu = {
 	"Combos": {
 		header: true,	
 	
-	"Murdershake": {
-		price: 300,
-		noDiscount: true,
-		emoji: '🍩',
-		items: ["Murder Meal", "Fries", "Fries", "Rimjob", "Milkshake", "Heartstopper"],
-		copypasta: '~o~ ~h~🍔MurderShake Meal🍩~n~~b~1 Mystery Burger, 2 Sides, 1 Milkshake, 1 Rimjob ~w~|~g~ $300',
 	
-	},
 };
 const INDIVIDUAL_ITEMS = [
 	"Fruit Cube", "Cannoli", "Pain au Chocolate", "Meatball Sub", "Char Board", "Tropical Punch", "Frappuccino", "Grape Juicebox", "Hot Chocolate", "Cappuccino", "Espresso", "Cigarettes"
