@@ -235,13 +235,15 @@ function add(item) {
 	let elem = document.getElementById(`${item}-#`);
 	if (!elem) return alert(`ERROR: ${item} is not available to add to the cart!`);
 	let number = Number(elem.innerText);
-	let max = Menu[item].max || Settings.DEFAULT_MAX_CAP;
-	if (number + 1 <= max) {
-		elem.innerText = number + 1;
-		report();
-	} else {
-		alert(`You cannot add more than ${max}x ${item} in 1 order!`);
-	}
+	elem.innerText = number + 1;
+	report();
+// 	let max = Menu[item].max || Settings.DEFAULT_MAX_CAP;
+// 	if (number + 1 <= max) {
+// 		elem.innerText = number + 1;
+// 		report();
+// 	} else {
+// 		alert(`You cannot add more than ${max}x ${item} in 1 order!`);
+// 	}
 }
 
 function remove(item) {
@@ -261,11 +263,11 @@ function set(item, quantity) {
 		return alert(`ERROR: ${quantity} is not a number!`);
 	}
 	quantity = Math.round(Number(quantity));
-	let max = Menu[item].max || Settings.DEFAULT_MAX_CAP;
-	if (max && quantity > max) {
-		alert(`You cannot add more than ${max}x ${item} in 1 order!`);
-		return;
-	}
+// 	let max = Menu[item].max || Settings.DEFAULT_MAX_CAP;
+// 	if (max && quantity > max) {
+// 		alert(`You cannot add more than ${max}x ${item} in 1 order!`);
+// 		return;
+// 	}
 	elem.innerText = quantity;
 	report();
 }
