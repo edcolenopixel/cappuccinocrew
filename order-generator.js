@@ -43,15 +43,92 @@ const Menu = {
 	   	lastItem: false,
 	  	items: ["Char Board"],
 	},
-	// Combo Items:
-	"Combos": {
+	"Drinks:": {
+		header: true,
+	},
+	"Tropical Punch": {
+	   	price: 100,
+	   	noDiscount: false,
+	   	lastItem: false,
+	  	items: ["Tropical Punch"],
+	},
+	"Frappuccino": {
+	   	price: 100,
+	   	noDiscount: false,
+	   	lastItem: false,
+	  	items: ["Frappuccino"],
+	},
+	"Grape Juicebox": {
+	   	price: 100,
+	   	noDiscount: false,
+	   	lastItem: false,
+	  	items: ["Grape Juicebox"],
+	},
+	"Hot Chocolate": {
+	   	price: 100,
+	   	noDiscount: false,
+	   	lastItem: false,
+	  	items: ["Hot Chocolate"],
+	},
+	"Coffee:": {
+		header: true,
+	},
+	"Cappuccino": {
+	   	price: 150,
+	   	noDiscount: false,
+	   	lastItem: false,
+	  	items: ["Cappuccino"],
+	},
+	"Espresso": {
+	   	price: 150,
+	   	noDiscount: false,
+	   	lastItem: false,
+	  	items: ["Espresso"],
+	},
+	// misc Items:
+	"Misc": {
 		header: true,	
-	}
-	
+	},
+	"Cigarettes": {
+	   	price: 140,
+	   	noDiscount: false,
+	   	lastItem: false,
+	  	items: ["Cigarettes"],
+	},
+	"Cigarettes": {
+	   	price: 140,
+	   	noDiscount: false,
+	   	lastItem: false,
+	  	items: ["Cigarettes"],
+	},
+	"Noskit": {
+	   	price: 140,
+	   	noDiscount: false,
+	   	lastItem: false,
+	  	items: ["Noskit"],
+	},
+	"Lockpick": {
+	   	price: 350,
+	   	noDiscount: false,
+	   	lastItem: false,
+	  	items: ["Lockpick"],
+	},
+	"Adv Lockpick": {
+	   	price: 2500,
+	   	noDiscount: false,
+	   	lastItem: false,
+	  	items: ["Adv Lockpick"],
+	},
+	"Adv Repairkit": {
+	   	price: 2500,
+	   	noDiscount: false,
+	   	lastItem: false,
+	  	items: ["Adv Repairkit"],
+	},
 };
 const INDIVIDUAL_ITEMS = [
 	"Fruit Cube", "Cannoli", "Pain au Chocolate", "Meatball Sub", "Char Board", "Tropical Punch", "Frappuccino", "Grape Juicebox", "Hot Chocolate", "Cappuccino", "Espresso", "Cigarettes"
-,"Noskit", "Lockpick", "Adv Lockpick", "Adv Repair Kit"
+,"Noskit", "Lockpick", "Adv Lockpick", "Adv Repairkit"
 ];
 
 const buttons = {
