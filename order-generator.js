@@ -166,7 +166,7 @@ const Signs = {
 		copypasta:  '<font size=`70`><b>~g~ ~h~ 🚫NO PARKING🚫'
 	},
 	"Food Combos": {
-		copypasta:  '<font size=`25`>~b~ ~g~Food~n~~b~ 🥝 Fruit Cube~w~ |~o~ 100 ~n~  ~b~ 🍮  Cannoli~w~ |~o~ 100~n~ ~b~ Pain au Chocolate ~w~ |~o~ 100 ~n~  ~b~ 🥙 Meatball Sub ~w~ |~o~ 100 ~n~ ~b~ Char. Board ~w~ | ~o~ 100'
+		copypasta:  '<font size=`25`>~b~~g~Food~n~~b~ 🥝Fruit Cube~w~ |~o~ 100 ~n~ ~b~ 🍮Cannoli~w~ | ~o~ 100 ~n~ ~b~ 🍫Pain au Chocolate ~w~ |~o~ 100 ~n~~b~ 🥙Meatball Sub ~w~ |~o~ 100 ~n~~b~🍖Char. Board ~w~ |~o~ 100'
 	},
 	"Drinks": {
 		copypasta:  '<font size=`25`> ~b~ ~g~Drinks ~n~ ~b~🍹 Tropical Punch ~w~ |~o~ 100 ~n~  ~b~ ☕ Frappuccino ~w~ |~o~ 100~n~ ~b~🧃 Grape Juicebox~w~ | ~o~ 100 ~n~  ~b~ 🍫 Hot Chocolate ~w~ |~o~ 100'
