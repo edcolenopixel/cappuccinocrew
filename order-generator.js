@@ -9,26 +9,52 @@ const Settings = {
 }
 
 const Menu = {
+	
+	},
+	// Items:
+	"Food:": {
+		header: true,
+	"Fruit Cube": {
+	   	price: 100,
+	   	noDiscount: false,
+	   	lastItem: false,
+	  	items: ["Fruit Cube"],
+	},
+	"Cannoli": {
+	   	price: 100,
+	   	noDiscount: false,
+	   	lastItem: false,
+	  	items: ["Cannoli"],
+	},
+	"Pain au Chocolate": {
+	   	price: 100,
+	   	noDiscount: false,
+	   	lastItem: false,
+	  	items: ["Pain au Chocolate"],
+	},
+	"Meatball Sub": {
+	   	price: 100,
+	   	noDiscount: false,
+	   	lastItem: false,
+	  	items: ["Meatball Sub"],
+	},
+	"Char Board": {
+	   	price: 100,
+	   	noDiscount: false,
+	   	lastItem: false,
+	  	items: ["Char. Board"],
+	},
 	// Combo Items:
 	"Combos": {
-		header: true,
-	},
+		header: true,	
+	
 	"Murdershake": {
 		price: 300,
 		noDiscount: true,
 		emoji: '🍩',
 		items: ["Murder Meal", "Fries", "Fries", "Rimjob", "Milkshake", "Heartstopper"],
 		copypasta: '~o~ ~h~🍔MurderShake Meal🍩~n~~b~1 Mystery Burger, 2 Sides, 1 Milkshake, 1 Rimjob ~w~|~g~ $300',
-	},
-	// Burger Meals:
-	"Burger Meals:": {
-		header: true,
-	"Salad": {
-	   	price: 55,
-	   	max: 5,
-	   	noDiscount: false,
-	   	lastItem: false,
-	  	items: ["Salad"],
+	
 	},
 };
 const INDIVIDUAL_ITEMS = [
