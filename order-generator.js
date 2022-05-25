@@ -175,7 +175,7 @@ const Signs = {
 		copypasta:  '<font size=`25`> ~b~ ~g~Coffee~n~ ~b~☕ Cappuccino ~w~ |~o~ 150 ~n~  ~b~ ☕Espresso ~w~ |~o~ 150'
 	},
 	"Misc": {
-		copypasta:  '<font size=`25`> ~b~ ~g~Misc.~n~ ~b~🚬 Cigarettes ~w~ |~o~ 140 ~n~ ~b~  🩹NOSkit (MedKits) ~w~ |~o~ 140 ~n~  ~b~ Regular Lockpick ~w~ |~o~ 350 ~n~  ~b~ Adv Lockpick ~w~ |~o~ 2500 ~n~  ~b~ 🧰 Adv Repair Kits ~w~ |~o~ 2200'
+		copypasta:  '<font size=`25`>~g~Misc.~n~~b~🚬Cigarettes ~w~| ~o~140 ~n~~b~🩹NOSkit(MedKit) ~w~| ~o~140~n~ ~b~🧰Adv Repair Kits ~w~| ~o~2200'
 	},
 	"W cop combo": {
 		copypasta:  '<font size=`25`>~r~ ~g~👮W COP COMBO ~n~ ~b~3 Any Food, 2 Grape Juicebox, 2 Espresso~w~ |~o~ $620'
