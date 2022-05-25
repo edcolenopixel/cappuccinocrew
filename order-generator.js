@@ -129,6 +129,7 @@ const Menu = {
 	   	noDiscount: false,
 	   	lastItem: false,
 	  	items: ["Cannoli", "Frappuccino"],
+		copypasta:  '<font size=`25`>~r~ ~g~🥱BASIC BISH~n~ ~b~1 Cannoli, 1 Frapp ~w~ |~o~ $120'
 	},
 	"W Cop": {
 	   	price: 620,
@@ -136,6 +137,7 @@ const Menu = {
 	   	noDiscount: false,
 	   	lastItem: false,
 	  	items: ["Food", "Food", "Food", "Grape Juicebox", "Grape Juicebox", "Espresso", "Espresso"],
+		copypasta:  '<font size=`25`>~r~ ~g~👮W COP COMBO ~n~ ~b~3 Any Food, 2 Grape Juicebox, 2 Espresso~w~ |~o~ $620'
 	},
 	"Boost of the Day": {
 	   	price: 950,
@@ -143,6 +145,7 @@ const Menu = {
 	   	noDiscount: false,
 	   	lastItem: false,
 	  	items: ["Meatball Sub", "Tropical Punch", "Espresso", "Espresso", "Espresso", "Espresso", "Espresso"],
+		copypasta:  '<font size=`25`>~g~🏎BOOST OF THE DAY~n~~b~1 Meatball Sub, 1 Trop. Punch, 5 Coffees ~w~| ~o~$950'
 	},
 	"Cremepie": {
 	   	price: 820,
@@ -150,6 +153,7 @@ const Menu = {
 	   	noDiscount: false,
 	   	lastItem: false,
 	  	items: ["Cannoli", "Cannoli", "Cannoli", "Hot Chocolate", "Hot Chocolate", "Cappuccino", "Cappuccino", "Noskit", "Noskit"],
+		copypasta:  '<font size=`25`>~r~ ~g~🍦CRÈMEPIE COMBO ~n~ ~b~3 Cannoli, 2 Hot Choc, 2 Capp., 2 MedKits~w~ |~o~ $820'
 	},
 	"L Cop": {
 	   	price: 2620,
@@ -157,6 +161,7 @@ const Menu = {
 	   	noDiscount: false,
 	   	lastItem: false,
 	  	items: ["Food", "Food", "Food", "Hot Chocolate", "Hot Chocolate", "Cappuccino", "Cappuccino", "Adv Repairkit"],
+		copypasta:  '<font size=`25`>~r~ ~g~👮L COP COMBO ~n~ ~b~3 Any Food, 2 Hot Choc, 2 Capp., 1 Adv. Repair Kit~w~ |~o~ $2620'
 	}
 }
 const INDIVIDUAL_ITEMS = [
@@ -210,21 +215,21 @@ const Signs = {
 	"Misc": {
 		copypasta:  '<font size=`25`>~g~Misc.~n~~b~🚬Cigarettes ~w~| ~o~140 ~n~~b~🩹NOSkit(MedKit) ~w~| ~o~140~n~ ~b~🧰Adv Repair Kits ~w~| ~o~2200'
 	},
-	"W cop combo": {
-		copypasta:  '<font size=`25`>~r~ ~g~👮W COP COMBO ~n~ ~b~3 Any Food, 2 Grape Juicebox, 2 Espresso~w~ |~o~ $620'
-	},
-	"L cop combo": {
-		copypasta:  '<font size=`25`>~r~ ~g~👮L COP COMBO ~n~ ~b~3 Any Food, 2 Hot Choc, 2 Capp., 1 Adv. Repair Kit~w~ |~o~ $2620'
-	},
-	"Cremepie combo": {
-		copypasta:  '<font size=`25`>~r~ ~g~🍦CRÈMEPIE COMBO ~n~ ~b~3 Cannoli, 2 Hot Choc, 2 Capp., 2 MedKits~w~ |~o~ $820'
-	},
-	"Basic bish": {
-		copypasta:  '<font size=`25`>~r~ ~g~🥱BASIC BISH~n~ ~b~1 Cannoli, 1 Frapp ~w~ |~o~ $120'
-	},
-	"Boost of the day": {
-		copypasta:  '<font size=`25`>~g~🏎BOOST OF THE DAY~n~~b~1 Meatball Sub, 1 Trop. Punch, 5 Coffees ~w~| ~o~$950'
-	},
+// 	"W cop combo": {
+// 		copypasta:  '<font size=`25`>~r~ ~g~👮W COP COMBO ~n~ ~b~3 Any Food, 2 Grape Juicebox, 2 Espresso~w~ |~o~ $620'
+// 	},
+// 	"L cop combo": {
+// 		copypasta:  '<font size=`25`>~r~ ~g~👮L COP COMBO ~n~ ~b~3 Any Food, 2 Hot Choc, 2 Capp., 1 Adv. Repair Kit~w~ |~o~ $2620'
+// 	},
+// 	"Cremepie combo": {
+// 		copypasta:  '<font size=`25`>~r~ ~g~🍦CRÈMEPIE COMBO ~n~ ~b~3 Cannoli, 2 Hot Choc, 2 Capp., 2 MedKits~w~ |~o~ $820'
+// 	},
+// 	"Basic bish": {
+// 		copypasta:  '<font size=`25`>~r~ ~g~🥱BASIC BISH~n~ ~b~1 Cannoli, 1 Frapp ~w~ |~o~ $120'
+// 	},
+// 	"Boost of the day": {
+// 		copypasta:  '<font size=`25`>~g~🏎BOOST OF THE DAY~n~~b~1 Meatball Sub, 1 Trop. Punch, 5 Coffees ~w~| ~o~$950'
+// 	},
 	"Twatter Ad": {
 		copypasta:  '☘️ South Side Gas ☘️ Come by and get ⛽ Premium gas ⛽☕🩹🥙 Food, Coffee, Cigs, First aids and ADV Repair Kits now available!☕🩹🥙 https://i.imgur.com/JHP67lY.mp4'
 	}
